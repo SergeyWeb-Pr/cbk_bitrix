@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Карьера", 
+		"/career/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/career/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Стажировка", 
+		"/career/internship/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Интервью с сотрудниками", 
+		"/career/interview/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

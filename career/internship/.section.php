@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Стажировка";
+$arDirProperties = Array(
+
+);
+?>

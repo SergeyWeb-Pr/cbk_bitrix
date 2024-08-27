@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Лесообеспечение";
+$arDirProperties = Array(
+
+);
+?>

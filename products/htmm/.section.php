@@ -1,0 +1,6 @@
+<?
+$sSectionName = "ХТММ";
+$arDirProperties = Array(
+
+);
+?>

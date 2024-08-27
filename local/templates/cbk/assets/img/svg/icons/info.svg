@@ -1,0 +1,11 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="fi-rs-document">
+<path id="Vector" d="M7.66797 12H17.668V14H7.66797V12ZM7.66797 18H14.668V16H7.66797V18ZM22.668 7.586V24H2.66797V3C2.66797 2.20435 2.98404 1.44129 3.54665 0.87868C4.10926 0.31607 4.87232 0 5.66797 0L15.082 0L22.668 7.586ZM15.668 7H19.254L15.668 3.414V7ZM20.668 22V9H13.668V2H5.66797C5.40275 2 5.1484 2.10536 4.96086 2.29289C4.77333 2.48043 4.66797 2.73478 4.66797 3V22H20.668Z" fill="url(#paint0_linear_1753_52942)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1753_52942" x1="3.06271" y1="15.7059" x2="22.668" y2="15.7059" gradientUnits="userSpaceOnUse">
+<stop stop-color="#02B45E"/>
+<stop offset="0.96875" stop-color="#71CB3A"/>
+</linearGradient>
+</defs>
+</svg>

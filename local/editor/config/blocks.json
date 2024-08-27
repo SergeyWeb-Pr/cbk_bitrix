@@ -1,0 +1,119 @@
+{
+    "Separator": "base",
+
+    "SliderMainBlock": "main",
+    "FactsMainBlock": "main",
+    "ContentMainBlock": "main",
+    "ProductsMainBlock": "main",
+
+    "TopContactsBlock": "contacts",
+    "ContentContactsBlock": "contacts",
+
+    "TopCompanyBlock": "company",
+    "InfoCompanyBlock": "company",
+    "FactsCompanyBlock": "company",
+    "LocationCompanyBlock": "company",
+
+    "TopGoalBlock": "goal",
+    "MissionsGoalBlock": "goal",
+    "ValuesGoalBlock": "goal",
+    "DocumentsGoalBlock": "goal",
+
+    "TopManagementBlock": "management",
+    "ManagersManagementBlock": "management",
+
+    "TopPhilosophyBlock": "philosophy",
+    "BrandbookPhilosophyBlock": "philosophy",
+    "LogoPhilosophyBlock": "philosophy",
+    "ElementsPhilosophyBlock": "philosophy",
+
+    "TopHistoryBlock": "history",
+    "ContentHistoryBlock": "history",
+
+    "TopObjectsBlock": "objects",
+    "ItemsObjectsBlock": "objects",
+
+    "ContentDocumentsBlock": "documents",
+
+    "ContentSuppliersBlock": "suppliers",
+
+    "ContentProvisionBlock": "provision",
+
+    "ContentMaterialsBlock": "materials",
+
+    "TopCareerBlock": "career",
+    "JobCareerBlock": "career",
+    "RequirementsCareerBlock": "career",
+    "EventsCareerBlock": "career",
+
+    "ContentVacanciesBlock": "vacancies",
+
+    "TopInternshipBlock": "internship",
+    "ApplicationInternshipBlock": "internship",
+
+    "ContentInterviewBlock": "interview",
+
+    "ContentProductsBlock": "products",
+
+    "TopPaperBlock": "paper",
+    "BrandsPaperBlock": "paper",
+    "AdvanSvetoPaperBlock": "paper",
+    "LineSvetoPaperBlock": "paper",
+    "AdvanBalletPaperBlock": "paper",
+    "LineBalletPaperBlock": "paper",
+
+    "TopOffsetBlock": "offset",
+    "TechOffsetBlock": "offset",
+    "UseOffsetBlock": "offset",
+    "AdvanOffsetBlock": "offset",
+    "InfoOffsetBlock": "offset",
+    "PartnersOffsetBlock": "offset",
+    "BuyOffsetBlock": "offset",
+
+    "TopCardboardBlock": "cardboard",
+    "ContentCardboardBlock": "cardboard",
+    "DocumentsCardboardBlock": "cardboard",
+
+    "TopHtmmBlock": "htmm",
+    "InfoHtmmBlock": "htmm",
+    "UseHtmmBlock": "htmm",
+    "AdvanHtmmBlock": "htmm",
+    "PartnersHtmmBlock": "htmm",
+
+    "ContentOtherBlock": "other_products",
+
+    "TopDevelopmentBlock": "development",
+    "ContentDevelopmentBlock": "development",
+
+    "TopForestryBlock": "forestry",
+    "ContentForestryBlock": "forestry",
+    "ComplexForestryBlock": "forestry",
+    "ArticleForestryBlock": "forestry",
+
+    "TopProtectionBlock": "protection",
+    "CardsProtectionBlock": "protection",
+    "SystemProtectionBlock": "protection",
+    "DocumentsProtectionBlock": "protection",
+
+    "TopSafetyBlock": "safety",
+    "ConditionsSafetyBlock": "safety",
+    "ControlSafetyBlock": "safety",
+    "DocumentsSafetyBlock": "safety",
+
+    "ContentResponsibilityBlock": "responsibility",
+
+    "ContentCaringPeopleBlock": "caring_people",
+
+    "TopCaringSocietyBlock": "caring_society",
+    "ContentCaringSocietyBlock": "caring_society",
+
+    "TopPolicyBlock": "policy",
+
+    "ContentHotlineBlock": "hotline",
+
+    "ContentQuestionsBlock": "questions",
+
+    "ContentErrorBlock": "error",
+
+    "ContentPresskitBlock": "presskit"
+}

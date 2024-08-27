@@ -1,0 +1,29 @@
+{
+    "name": "lst/sync-profitbase",
+    "description": "Lenstroytrast profitbase sync",
+    "keywords": [
+        "profitbase",
+        "leystroy",
+        "sync"
+    ],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergey Gorev",
+            "email": "segorev@gmail.com",
+            "homepage": "https://pikmedia.ru"
+        }
+    ],
+    "support": {
+        "email": "segorev@gmail.com"
+    },
+    "require": {
+        "php": ">= 7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lst\\ImportEstate\\": "classes"
+        }
+    }
+}

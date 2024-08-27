@@ -1,0 +1,11 @@
+.block__green
+{
+  background: #7fc973;
+  padding: 20px;
+}
+
+.fz24
+{
+  font-size: 24px !important;
+  line-height: 38px !important;
+}
